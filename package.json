@@ -10,5 +10,10 @@
   "license": "MIT",
   "devDependencies": {
     "serverless-google-cloudfunctions": "^1.2.0"
+  },
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "es6-promise": "^4.2.5",
+    "isomorphic-fetch": "^2.2.1"
   }
 }
